@@ -1,18 +1,33 @@
 {
   "speakers": [
     {
-      "name": "Afakpe Temiloluwa",
-      "bio": "Software Engineer @charisol",
+      "name": "Daniel Ajisafe",
+      "bio": "Data Scientist",
+      "talk": "The future of AI in Africa and the diaspora",
       "image": "https://imgur.com/gallery/PQZFoZ1"
     },
-     {
+    {
       "name": "Agboola Jude",
       "bio": "Software Engineer @charisol",
+      "talk": "Developing your first PWA using reactjs",
       "image": "https://imgur.com/gallery/PQZFoZ1"
     },
-     {
-      "name": "Agboola Alice",
-      "bio": "Software Engineer @charisol",
+    {
+      "name": "Akinwale Yetunde",
+      "bio": "Android Developer",
+      "talk": "Google digital Wellbeing",
+      "image": "https://imgur.com/gallery/PQZFoZ1"
+    },
+    {
+      "name": "Temitayo Adefioye",
+      "bio": "Associate Android Developer",
+      "talk": "Building a sustainable software development career",
+      "image": "https://imgur.com/gallery/PQZFoZ1"
+    },
+    {
+      "name": "Afakpe Ruth",
+      "bio": "Data Scientist",
+      "talk": "Google digital Wellbeing",
       "image": "https://imgur.com/gallery/PQZFoZ1"
     }
   ]
